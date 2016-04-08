@@ -1,0 +1,13 @@
+{
+    "name": "ttypescript",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "keywords": [],
+    "author": "cevek",
+    "license": "ISC",
+    "dependencies": {
+        "escodegen": "^1.8.0",
+        "esprima": "^2.7.2"
+    }
+}
